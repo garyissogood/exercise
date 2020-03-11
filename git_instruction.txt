@@ -1,0 +1,13 @@
+git init     初始化數據庫
+
+git st   /  git status    查詢當前狀態
+
+git add .    將檔案加入到索引
+
+git commit -m "修改內容"   將索引檔案變成一個更新
+
+git log     觀察 commit 歷史紀錄
+
+it clone 數據庫網址     下載遠端數據庫
+
+git push origin master  更新遠端數據庫
