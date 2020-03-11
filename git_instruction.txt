@@ -11,3 +11,27 @@ git log     觀察 commit 歷史紀錄
 it clone 數據庫網址     下載遠端數據庫
 
 git push origin master  更新遠端數據庫
+
+
+推上github
+
+git remote add origin git@github.com:garyissogood/exercise.git
+
+git push -u origin master
+
+
+終端機指令
+
+cd 路徑   前往路徑
+
+dir       顯示資料夾檔案
+
+mkdir     新增資料夾
+
+copy      
+
+move
+
+del
+
+cls
