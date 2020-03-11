@@ -35,3 +35,6 @@ move
 del
 
 cls
+
+使用 BrowserSync 開發伺服器
+browser-sync start --server --files="*"
