@@ -15,7 +15,7 @@ git push origin master  更新遠端數據庫
 
 推上github
 
-git remote add origin git@github.com:garyissogood/exercise.git
+git remote add origin git@github.com:garyissogood/myexercise.git
 
 git push -u origin master
 
